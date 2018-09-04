@@ -1,5 +1,6 @@
 # Test
 Test github
-| 1 | 2 |
-| --- | --- |
-| a | b |
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
